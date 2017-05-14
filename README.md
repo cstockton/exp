@@ -1,2 +1,4 @@
-# go-exp
-Experimental libraries that I'm not currently supporting or may be deleted.
+# Exp
+
+Experimental libraries that may or may not be promoted to my long term
+maintained [pkg](https://github.com/cstockton/pkg) repo.
