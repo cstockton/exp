@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	call "github.com/cstockton/go-call"
+	call "github.com/cstockton/exp/call"
 )
 
 func ExampleNew() {
